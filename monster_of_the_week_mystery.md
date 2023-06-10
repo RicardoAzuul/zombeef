@@ -8,6 +8,10 @@ Some cows have even mutated further, into weird zombie cow monstrosities.
 
 News articles have popped up about a strange infection in a small town. People became violent, biting and scratching before having to be shot by the people they attacked or the police.
 It is suggested to be a form of rabies or perhaps some new drug, and these people are jokingly referred to as "zombies".
+What's going on:
+Big agriculture has been experimenting on cows. One such experiment is in the town of [bla]. The corporation has created a super zombie cow - Lisa -  that regrows flesh. The corporation has been distributing this flesh to the populace, unknown to everyone.
+It's good beef, but has the nasty side effect of zombifying the consumer.
+Lisa is being kept locked away, with occassionally meat cut off and processed. She is going crazy and wants to break out.
 
 # The Threats
 
@@ -136,18 +140,28 @@ It’s a good idea to include some partially defined bystanders: just
 a name and type. You can use them in play for unexpected bystander
 characters: just add any extra details at the time.
 
-The farmer
+The farmer: Victim
 
-The farmer's wife
+The farmer's wife: Innocent
 
-The farmhand
+The farmhand: Gossip
 
-The local sheriff
+The local sheriff: Skeptic
 
-A reporter
+A reporter: detective
 
-The local doctor
+The local doctor: Witness
+
+Survivors from the fight at the fast food place
 ## Locations
+
+The farm
+
+The fast food place
+
+The secret lab at the farm: Lab
+
+
 
 Locations are places that can cause trouble for the hunters. They’re
 metaphorically hostile, encompassing all the stuff that can go wrong
@@ -214,9 +228,16 @@ the monster’s plan has been derailed, it will still be trying to achieve
 its goals and the countdown is useful as a guide (or something to
 adapt) to determine what happens next.
 
-- Day: 
-- Shadows: 
-- Dusk:
-- Sunset: 
-- Nghtfall: the farm is overrun by zombies and zombie cows
-- Midnight: Lisa breaks loose and the village is lost between the zombies, zombie cows and military action. 
+What happens if the hunters do nothing?
+- More people are turned into zombies
+- These zombies try and make it back to the farm to turn cows into zombies.
+- The zombie cows go after the corporate agent
+- Once the corporate agent is turned, Lisa can be freed and she sends her zombies and zombie cows to infect the village.
+- Once the village is overrun, the military intervenes, but black ops style. The corporation has too much money and influence.
+
+- Day: there is a minor outbreak of zombies at a local fast food place. Though it's reported as a fight.
+- Shadows: Lisa turns the other cows at the farm into zombie cows.
+- Dusk: Lisa sends her zombie cows after the corporate shill.
+- Sunset: Lisa sends her zombie cows out to conquer the town.
+- Nghtfall: the town is overrun. Lisa has broken free, and people are turned to zombies at an alarming rate. 
+- Midnight: The army is called in to deal with the zombies and zombie cows and the town is effectively erased from the map. It's all hush hush.

@@ -9,7 +9,7 @@ Some cows have even mutated further, into weird zombie cow monstrosities.
 News articles have popped up about a strange infection in a small town. People became violent, biting and scratching before having to be shot by the people they attacked or the police.
 It is suggested to be a form of rabies or perhaps some new drug, and these people are jokingly referred to as "zombies".
 What's going on:
-Big agriculture has been experimenting on cows. One such experiment is in the town of [bla]. The corporation has created a super zombie cow - Lisa -  that regrows flesh. The corporation has been distributing this flesh to the populace, unknown to everyone.
+Big agriculture has been experimenting on cows. One such experiment is in the town of Emmaus. The corporation has created a super zombie cow - Lisa -  that regrows flesh. The corporation has been distributing this flesh to the populace, unknown to everyone.
 It's good beef, but has the nasty side effect of zombifying the consumer.
 Lisa is being kept locked away, with occassionally meat cut off and processed. She is going crazy and wants to break out.
 
@@ -44,6 +44,7 @@ Being the mother of the zombies and zombie cows, she can control them.
 
 Attacks and armour
 
+Spit: 0-harm close, restraining. 
 Bite: 2-harm hand, infection. Roll tough. On a 10+ you are ok, for now. On a 7 to 9, the infection begins, take -1 forward. On a 6-, the infection is rampant, take -1 ongoing.
 Kick: 3-harm hand, forceful
 
@@ -105,6 +106,8 @@ Zombies: Plague (motivation: to swarm and destroy)
 Zombie cows: Scout (motivation: to stalk, watch, and report)
 
 The corporate shill: Guardian (motivation: to bar a way or protect something)
+
+Harm: 7
 
 ## Bystanders
 

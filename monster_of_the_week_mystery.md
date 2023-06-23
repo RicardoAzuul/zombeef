@@ -102,11 +102,22 @@ If minions have armour, they normally have 1-armour, and only
 rarely 2-armour or higher.
 
 Zombies: Plague (motivation: to swarm and destroy)
+Powers:
+- Undead
+Attacks: 
+- Grapple: 1-harm hand
+- Bite: 1-harm intimate
+Armour: none
+Harm:
 
 Zombie cows: Scout (motivation: to stalk, watch, and report)
+Attacks
+Armour
+Harm
 
 The corporate shill: Guardian (motivation: to bar a way or protect something)
-
+Attacks: 
+Armour: none
 Harm: 7
 
 ## Bystanders
